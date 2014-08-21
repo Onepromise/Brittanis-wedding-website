@@ -1,0 +1,93 @@
+/********************************
+GENERAL
+*********************************/
+a{
+  text-decoration:none;
+}
+ul li{
+  list-style:none;
+}
+
+body{
+  background-image: url('http://i11.photobucket.com/albums/a158/OnePromise/Brittani/wedding-background-pictures-10_zps07030a7f.jpg'); 
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin:0;
+  padding:0;
+  }
+img{
+  max-width:100%;
+}
+#wrapper{
+  max-width:940px;
+  margin:0 auto;
+  padding 0 5%;
+  background-color:;
+}
+h3{
+  text-align:center;
+  text-decoration:underline;
+ }
+p{
+  text-align:center;
+  
+}
+
+/********************************
+Heading
+*********************************/
+
+header{
+  float:left;
+  margin:0 0 0 0;
+  padding: 0 0 0 0;
+  width:100%;
+  background-color:;
+}
+#logo{
+ display: block;
+  max-width: 250px;
+  max-height: 200px;
+  margin: 0 auto 30px;
+  padding: -20px 0;
+  
+}
+
+
+
+
+
+/********************************
+Footer
+*********************************/
+
+footer{
+  text-align:center;
+  padding-top: 50px;
+  clear:both;
+  font-size:o.75em;
+}
+
+/********************************
+Page: About
+*********************************/
+
+
+#gallery{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#gallery li {
+  float:left;
+  width:45%;
+  margin:2.5%;
+  
+}
+#gallery li#indesign{
+  width: 95%;
+  float:left;
+  display:block;
+  
+}
